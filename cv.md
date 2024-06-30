@@ -2,4 +2,17 @@
 
 ####My experience
 *Trainee Softflex - for 6 weeks
-*g
+
+
+
+####My skills:
+*React 18
+*Javascript
+*HTML
+*CSS
+
+####Courses:
+*HTML Academy
+*Coursera
+*Udemy
+
