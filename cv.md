@@ -40,7 +40,8 @@ I also completed an internship at Softflex where I participated in a real projec
 * German A1
 
 ### Codewars:
-<a href="https://www.codewars.com/users/Nikitchov">Click here</a>
+[Click here](https://www.codewars.com/users/Nikitchov)
+
 
 ### Example of code:
 
